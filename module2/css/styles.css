@@ -15,16 +15,6 @@ body{
   font-family: "Comic Sans MS";
 }
 
-p {
-  border: 1px solid black;
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-
-  color: white;
-}
-
 /* Simple Responsive Framework. */
 .row {
 	width: 100%;
