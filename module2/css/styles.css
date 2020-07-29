@@ -23,7 +23,7 @@ body{
 .dishname{
   overflow: none;
   text-align: center;
-  border: 4px solid black;
+  border: 1px solid black;
   width: 100px;
   height: 40px;
   padding: 5px;
@@ -35,7 +35,7 @@ body{
 }
 
 .dish{
-  border: 5px solid black;
+  border: 1px solid black;
   width: 90%;
   height: auto;
   margin: 2.5%;
